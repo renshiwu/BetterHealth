@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <include layout="@layout/common_top" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/ios_background_color" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:background="@color/white"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:text="问题和意见"
+                    android:textColor="@color/c33"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:text="/200"
+                    android:textColor="@color/c99"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/count_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_toLeftOf="@id/tv"
+                    android:text="0"
+                    android:textColor="@color/c99"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
+                android:background="@color/white">
+
+                <EditText
+                    android:id="@+id/advise_content"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/bianjikuang_miaobian"
+                    android:gravity="left|top"
+                    android:lines="8"
+                    android:maxLength="200"
+                    android:paddingEnd="0dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="0dp"
+                    android:paddingStart="10dp"
+                    android:paddingTop="10dp"
+                    android:textColor="@color/c66"
+                    android:textColorHint="@color/c66"
+                    android:textSize="17sp"
+                    android:windowSoftInputMode="stateHidden" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/nichenglayout"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:padding="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="联系电话"
+                    android:textColor="@color/c66"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/advise_contact"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@null"
+                    android:gravity="center|left"
+                    android:hint="选填，方便我们与您联系"
+                    android:textColor="@color/c99"
+                    android:textColorHint="@color/c99"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="@drawable/line_10" />
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:padding="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:text="邮箱"
+                    android:textColor="@color/c66"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@null"
+                    android:gravity="center|left"
+                    android:hint="选填，方便我们与您联系"
+                    android:textColor="@color/c99"
+                    android:textColorHint="@color/c99"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15.0dip"
+                android:layout_marginTop="25.0dip"
+                android:orientation="vertical">
+
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginLeft="18dp"
+                    android:layout_marginRight="18dp"
+                    android:background="@drawable/background_miaobian"
+                    android:gravity="center"
+                    android:text="提交"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

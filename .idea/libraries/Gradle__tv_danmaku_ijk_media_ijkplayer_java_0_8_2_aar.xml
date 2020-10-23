@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: tv.danmaku.ijk.media:ijkplayer-java:0.8.2@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/a82c74ea4927cb2e926ccc78992ea37a9977f130/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/a82c74ea4927cb2e926ccc78992ea37a9977f130/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

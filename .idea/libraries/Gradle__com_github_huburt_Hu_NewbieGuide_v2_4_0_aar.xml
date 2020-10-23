@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.huburt-Hu:NewbieGuide:v2.4.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/android-build-cache/fe5f75f84eae7fca9d52b714c21b7b4bc3d25b4d/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/fe5f75f84eae7fca9d52b714c21b7b4bc3d25b4d/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/fe5f75f84eae7fca9d52b714c21b7b4bc3d25b4d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.huburt-Hu/NewbieGuide/v2.4.0/4ccbc8c518366c501a50407d9b07c4f95553124c/NewbieGuide-v2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

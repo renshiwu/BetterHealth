@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.bingoogolapple:bga-refreshlayout:1.0.7@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/android-build-cache/6ce4aa1b2a5445b9c7e9932c96d0481be2a2cce2/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/6ce4aa1b2a5445b9c7e9932c96d0481be2a2cce2/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/6ce4aa1b2a5445b9c7e9932c96d0481be2a2cce2/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.bingoogolapple/bga-refreshlayout/1.0.7/c61b8f220a6b2a7aa020e0f4e82085d9e880aa99/bga-refreshlayout-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

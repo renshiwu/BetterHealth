@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jakewharton.rxbinding:rxbinding:0.4.0@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/1f5e8e9a709ee3c423070a6407859b1705c69fc9/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/1f5e8e9a709ee3c423070a6407859b1705c69fc9/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding/0.4.0/c6d702be0535ca925ef726b31a8b004882fe7eea/rxbinding-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

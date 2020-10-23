@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mcxtzhang:all-base-adapter:V1.8.0@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/f84cd9b4d8c5a1f3f00d870374f3ae36ab655e3b/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/f84cd9b4d8c5a1f3f00d870374f3ae36ab655e3b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

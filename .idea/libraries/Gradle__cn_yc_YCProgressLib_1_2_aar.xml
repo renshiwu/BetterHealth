@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCProgressLib:1.2@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/76f88a7aac55e553ee19fbd4e56e274d369ab3ac/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/76f88a7aac55e553ee19fbd4e56e274d369ab3ac/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCProgressLib/1.2/e71da5ec1656bc422f20b7927a0b25b0a0934b98/YCProgressLib-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

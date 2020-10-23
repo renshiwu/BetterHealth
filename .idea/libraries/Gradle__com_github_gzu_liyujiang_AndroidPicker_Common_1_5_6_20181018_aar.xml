@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.gzu-liyujiang.AndroidPicker:Common:1.5.6.20181018@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/android-build-cache/b2aa3829ae3a6fb4166e7cefbc2a768b2662fb07/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/b2aa3829ae3a6fb4166e7cefbc2a768b2662fb07/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/b2aa3829ae3a6fb4166e7cefbc2a768b2662fb07/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.gzu-liyujiang.AndroidPicker/Common/1.5.6.20181018/c48b2ed4013d36e7c0a1de570e02ac0ccc370431/Common-1.5.6.20181018-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

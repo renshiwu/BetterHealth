@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCDialogLib:3.3@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/54e1f47cbebd37b140ef57232d89c2774b7dc894/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/54e1f47cbebd37b140ef57232d89c2774b7dc894/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCDialogLib/3.3/3dc94037785186f05302e5f98cff79c3e7315a63/YCDialogLib-3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

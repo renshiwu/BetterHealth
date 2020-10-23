@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bugsnag:bugsnag-android:4.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/android-build-cache/456f876391b0dcbdc895cc00ba9966534281d8e7/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/456f876391b0dcbdc895cc00ba9966534281d8e7/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/456f876391b0dcbdc895cc00ba9966534281d8e7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bugsnag/bugsnag-android/4.3.0/141409220391bd291e140c178dd5e9acc8a0fc31/bugsnag-android-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

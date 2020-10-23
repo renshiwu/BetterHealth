@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: cn.yc:YCBaseAdapterLib:1.2@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/55151d96af0e48abc63c091232b25d1cfd8707c9/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/55151d96af0e48abc63c091232b25d1cfd8707c9/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cn.yc/YCBaseAdapterLib/1.2/42684bfb85670949e5228a1dac4074b24455f995/YCBaseAdapterLib-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

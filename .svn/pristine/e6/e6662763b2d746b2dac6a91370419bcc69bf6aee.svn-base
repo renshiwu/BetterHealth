@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/mHeaderViewContent"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp">
+
+        <ProgressBar
+            android:id="@+id/loadmore_default_header_progressbar"
+            style="?android:attr/progressBarStyleSmallInverse"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:indeterminateDrawable="@drawable/progress"/>
+    </RelativeLayout>
+
+</LinearLayout>

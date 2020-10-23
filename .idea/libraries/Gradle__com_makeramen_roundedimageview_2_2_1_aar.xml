@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.makeramen:roundedimageview:2.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/android-build-cache/648f23e3df0c00438d879e5549592bec530c1210/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/648f23e3df0c00438d879e5549592bec530c1210/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/648f23e3df0c00438d879e5549592bec530c1210/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.makeramen/roundedimageview/2.2.1/2c1561f7ebb7d1cae5389f6779b4936ee40e4f80/roundedimageview-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

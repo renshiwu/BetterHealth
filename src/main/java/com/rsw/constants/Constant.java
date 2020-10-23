@@ -1,0 +1,37 @@
+
+package com.rsw.constants;
+
+public class Constant {
+    public static String BASE_URL = "http://10.10.1.51:8080/test1/";//测试
+
+    //    public static String BASE_URL = "http://renshiwu.oicp.net/test1/";//正式
+
+    public static String BASE_IMG_URL     = "https://renshwiu.oss-cn-hangzhou.aliyuncs.com/imgs/down_img/";
+    public static String BASE_CP_HTML_URL = "https://renshwiu.oss-cn-hangzhou.aliyuncs.com/imgs/caipu_html/";
+    public static String BASE_CP_IMG_URL  = "https://renshwiu.oss-cn-hangzhou.aliyuncs.com/imgs/caipu_img/";
+
+    public static final String USER_ID = "user_id";
+
+
+    //https://renshwiu.oss-cn-hangzhou.aliyuncs.com/imgs/down_html_img/0009266501da2e38bdc790421a485b35.jpg
+    // http://route.showapi.com/1164-2?showapi_appid=4545&showapi_sign=eedee830bc314eca8ddaf26233f7bdc9
+    //upload_html_img
+
+    //AppSecret:  f7df493fa563fd649503967337e914d3
+    // AppID:wxffa0c053129e8360
+    //测试签名：04055b89d6c62fa5b04a6bbedc02ab1f
+    //d029544aa4f1f814225bac69666f1a82
+    //http://47.94.168.198:8080/solr/admin.html#/core1/query
+    //#69c860
+
+
+    //http://dev.e.qq.com/dev/#register
+
+  /*  adb tcpip 5555
+    adb connect 10.10.1.220:5555
+    cd /d D:/gongzuo/Android/sdk/platform-tools*/
+
+
+    //adb connect localhost:5555
+
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:id="@+id/top_root"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <View
+        android:id="@+id/tianchong_view"
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="-10dp"
+            app:contentInsetStart="0dp"
+            app:contentInsetStartWithNavigation="0dp"
+            app:navigationIcon="@drawable/back_grey"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:theme="@style/ActionMenuBarStyle"
+            app:title=" ">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:ellipsize="marquee"
+                android:textColor="@color/c21"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:singleLine="true" />
+
+            <ImageView
+                android:id="@+id/iv_center_log"
+                android:layout_width="108dp"
+                android:layout_height="17dp"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                />
+
+            <ImageView
+                android:id="@+id/iv_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginRight="10dp"
+                android:visibility="gone"
+                />
+
+            <RelativeLayout
+                android:id="@+id/lay_del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center"
+                android:layout_marginRight="10dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/tv_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="6dp"
+                    android:text="删除"
+                    android:textColor="@color/textColor_alert_title"
+                    android:textSize="16sp"
+                    />
+            </RelativeLayout>
+        </android.support.v7.widget.Toolbar>
+
+        <View
+            android:id="@+id/divider_line"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/ce0"
+            />
+    </LinearLayout>
+
+
+</LinearLayout>

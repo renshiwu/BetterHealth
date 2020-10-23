@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+/*全局样式*/
+body,h1,h2,h3,h4,h5,h6,p ,div,input,select,table,ul,ol,li,tr,td,th,dl,dt,dd,form,textarea{
+margin-left:3px;
+margin-right:3px;
+color: #555
+}
+/* 设置字体*/
+body{
+font-size:17px;
+font-family:宋体,arial;
+}
+a{
+color:#333;
+text-decoration:none;
+}
+a:hover{
+color:#900;
+text-decoration:underline;
+}
+
+
+
+
+/*img{
+margin:5 auto;
+align:center;
+width:auto;
+height:auto;
+}*/
+ img { align:center;width:auto; height:auto; max-width:100%;_width:expression(this.width > 350 ? width:100% : true); }
+h1,h2,h3,h4,h5,h6{
+font-size:17px;
+font-weight:bold;
+}
+.clear{
+overflow:hidden
+}
+
+/* 公共样式 */
+/*.area{
+margin:0 auto;
+width:1200px;
+}*/
+.float-left{
+float:left;
+}
+.float-right{
+float:right;
+}
+
+.margin-top-10{
+margin-top:10px;
+}
+.margin-top-20{
+margin-top:20px;
+}
+/* 清除浮动:清除高度影响（父级元素设置） */
+.clear{
+overflow:hidden;
+}
+ul,li,ol{
+list-style:none;
+}
+
+.imit_m img { width:100%; height:250px; }
+
+/*
+h3{ color: #99cc66; }
+*/
+/*.shipudesc h4 { color: #99cc66; }
+.zuofa h4 { color: #99cc66; }*/
+
+/*.m-main { font-size: 16px; padding-top: 20px; }
+.m-main p{ margin-bottom: 28px; line-height: 30px; color: #555 }*/
+/*
+.m-main a{}
+*/
+
+/*
+.m-main h3 { height: 50px; line-height: 50px; background-color: #99cc66; color: #fff; display: inline-block; padding:0 20px; font-size: 18px; margin-left: 0px;position: relative; }
+*/
+ /*margin-bottom:20px; */
+/*
+.m-main h3 span { width: 8px; height: 6px; position: absolute;left:0;top: -6px }
+*/
+/*
+.m-main h4 { font-size: 18px; color: #99cc66; margin-bottom: 20px; }
+*/
+.article iframe
+{
+ width: 100%;
+ height:300px;
+ overflow:auto;
+ position:relative;
+}
+
+
+

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.premnirmal:TextCounter:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/ed45d56230c1199f84155b94fcef7c47816281ad/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/ed45d56230c1199f84155b94fcef7c47816281ad/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :ShareInstall_1.0.7:@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/b55dbdfb3b241e495e6a9904b7cde1dfd37722e7/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/b55dbdfb3b241e495e6a9904b7cde1dfd37722e7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

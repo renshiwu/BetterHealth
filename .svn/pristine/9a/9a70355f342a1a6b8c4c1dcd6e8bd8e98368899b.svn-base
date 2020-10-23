@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+         android:id="@android:id/tabhost"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <!-- TabHost控件->TabWidget(必须命名为tabs)->FrameLayout(必须命名为tabcontent)-->
+
+            <!-- tab的导航按钮，此处隐藏了 -->
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0"
+                android:visibility="gone"/>
+
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.0"/>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="#E0E0E0"/>
+
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                >
+
+                <ImageView
+                    android:id="@+id/iv_bottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"/>
+
+                <LinearLayout
+                    android:id="@+id/main_tab_group"
+                    android:layout_width="fill_parent"
+                    android:layout_height="43dp"
+                    android:background="@color/white"
+                    android:orientation="horizontal">
+
+                    <FrameLayout
+                        android:id="@+id/r1"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:background="@null">
+
+                        <RelativeLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="bottom|center"
+                            >
+
+                            <RadioButton
+                                android:id="@+id/mainTabs_radio1"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3.5dp"
+                                android:layout_weight="1"
+                                android:background="@null"
+                                android:button="@null"
+                                android:clickable="false"
+                                android:drawableTop="@drawable/t_sy_selector"
+                                android:gravity="center"
+                                android:text="资讯"
+                                android:textColor="@drawable/tab_item_name"
+                                android:textSize="10sp"/>
+                        </RelativeLayout>
+
+
+                    </FrameLayout>
+
+                    <FrameLayout
+                        android:id="@+id/r2"
+
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:background="@null">
+
+
+                        <RelativeLayout
+
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="bottom|center">
+
+                            <RadioButton
+                                android:id="@+id/mainTabs_radio2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3.5dp"
+                                android:layout_weight="1"
+                                android:background="@null"
+                                android:button="@null"
+                                android:clickable="false"
+                                android:drawableTop="@drawable/t_xz_selector"
+                                android:gravity="center"
+                                android:text="食谱"
+                                android:textColor="@drawable/tab_item_name"
+                                android:textSize="10sp"/>
+
+                        </RelativeLayout>
+                    </FrameLayout>
+
+                    <FrameLayout
+                        android:id="@+id/r3"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:background="@null">
+
+                        <RelativeLayout
+
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="bottom|center">
+
+                            <RadioButton
+                                android:id="@+id/mainTabs_radio3"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3.5dp"
+                                android:layout_weight="1"
+                                android:background="@null"
+                                android:button="@null"
+                                android:clickable="false"
+                                android:drawableTop="@drawable/t_xiaoxi_selector"
+                                android:gravity="center"
+                                android:text="食话"
+                                android:textColor="@drawable/tab_item_name"
+                                android:textSize="10sp"/>
+
+                        </RelativeLayout>
+
+
+                    </FrameLayout>
+
+                    <FrameLayout
+                        android:id="@+id/r4"
+
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_weight="1.0"
+                        android:background="@null">
+
+                        <RelativeLayout
+
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:gravity="bottom|center">
+
+                            <RadioButton
+                                android:id="@+id/mainTabs_radio4"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginBottom="3.5dp"
+                                android:layout_weight="1"
+                                android:background="@null"
+                                android:button="@null"
+                                android:clickable="false"
+                                android:drawableTop="@drawable/t_wd_selector"
+                                android:gravity="center"
+                                android:text="我的"
+                                android:textColor="@drawable/tab_item_name"
+                                android:textSize="10sp"/>
+                        </RelativeLayout>
+                    </FrameLayout>
+                </LinearLayout>
+
+            </FrameLayout>
+        </LinearLayout>
+
+</TabHost>

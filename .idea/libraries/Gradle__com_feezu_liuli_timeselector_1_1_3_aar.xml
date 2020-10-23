@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.feezu.liuli:timeselector:1.1.3@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/118f8db30c3d0b0e64c04d47746dd0494f72d0a4/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/118f8db30c3d0b0e64c04d47746dd0494f72d0a4/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.feezu.liuli/timeselector/1.1.3/56fa312c96351b30c94ed70e9302f8452bcd61e8/timeselector-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

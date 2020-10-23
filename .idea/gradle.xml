@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../AidlClient" />
+            <option value="$PROJECT_DIR$/../AidlServer" />
+            <option value="$PROJECT_DIR$/../BetterHR" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../BetterPartyBuild" />
+            <option value="$PROJECT_DIR$/../BetterStudy" />
+            <option value="$PROJECT_DIR$/../BroadcastReceiverDemo" />
+            <option value="$PROJECT_DIR$/../ExpandableListViewDemo" />
+            <option value="$PROJECT_DIR$/../PLDroidPlayerDemo" />
+            <option value="$PROJECT_DIR$/../VideoPlayer" />
+            <option value="$PROJECT_DIR$/../WheelSurfDemo" />
+            <option value="$PROJECT_DIR$/../YCVideoPlayer" />
+            <option value="$PROJECT_DIR$/../YCVideoPlayerLib" />
+            <option value="$PROJECT_DIR$/../ZhijieNet" />
+            <option value="$PROJECT_DIR$/../alipay_demo" />
+            <option value="$PROJECT_DIR$/../bdvideoplayer" />
+            <option value="$PROJECT_DIR$/../canvasactivity" />
+            <option value="$PROJECT_DIR$/../easeui" />
+            <option value="$PROJECT_DIR$/../jiaozivideoplayer" />
+            <option value="$PROJECT_DIR$/../jiaozivideoplayer2" />
+            <option value="$PROJECT_DIR$/../lsn17_keepliveProcess" />
+            <option value="$PROJECT_DIR$/../nativeImgCompress1" />
+            <option value="$PROJECT_DIR$/../payDemoActivity_20" />
+            <option value="$PROJECT_DIR$/../wheelsruflibrary" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

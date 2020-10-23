@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.ams:alicloud-android-hotfix:3.2.7@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/213527feb63e197a85da156f389b2dab9c4c8f4f/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/213527feb63e197a85da156f389b2dab9c4c8f4f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

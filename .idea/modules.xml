@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AidlClient/AidlClient.iml" filepath="$PROJECT_DIR$/../AidlClient/AidlClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AidlServer/AidlServer.iml" filepath="$PROJECT_DIR$/../AidlServer/AidlServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BetterHR/BetterHR.iml" filepath="$PROJECT_DIR$/../BetterHR/BetterHR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BetterHealth.iml" filepath="$PROJECT_DIR$/BetterHealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BetterPartyBuild/BetterPartyBuild.iml" filepath="$PROJECT_DIR$/../BetterPartyBuild/BetterPartyBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BetterStudy/BetterStudy.iml" filepath="$PROJECT_DIR$/../BetterStudy/BetterStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BroadcastReceiverDemo/BroadcastReceiverDemo.iml" filepath="$PROJECT_DIR$/../BroadcastReceiverDemo/BroadcastReceiverDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExpandableListViewDemo/ExpandableListViewDemo.iml" filepath="$PROJECT_DIR$/../ExpandableListViewDemo/ExpandableListViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication.iml" filepath="$PROJECT_DIR$/../MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PLDroidPlayerDemo/PLDroidPlayerDemo.iml" filepath="$PROJECT_DIR$/../PLDroidPlayerDemo/PLDroidPlayerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VideoPlayer/VideoPlayer.iml" filepath="$PROJECT_DIR$/../VideoPlayer/VideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WheelSurfDemo/WheelSurfDemo.iml" filepath="$PROJECT_DIR$/../WheelSurfDemo/WheelSurfDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YCVideoPlayer/YCVideoPlayer.iml" filepath="$PROJECT_DIR$/../YCVideoPlayer/YCVideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YCVideoPlayerLib/YCVideoPlayerLib.iml" filepath="$PROJECT_DIR$/../YCVideoPlayerLib/YCVideoPlayerLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZhijieNet/ZhijieNet.iml" filepath="$PROJECT_DIR$/../ZhijieNet/ZhijieNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alipay_demo/alipay_demo.iml" filepath="$PROJECT_DIR$/../alipay_demo/alipay_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bdvideoplayer/bdvideoplayer.iml" filepath="$PROJECT_DIR$/../bdvideoplayer/bdvideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../canvasactivity/canvasactivity.iml" filepath="$PROJECT_DIR$/../canvasactivity/canvasactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../easeui/easeui.iml" filepath="$PROJECT_DIR$/../easeui/easeui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jiaozivideoplayer/jiaozivideoplayer.iml" filepath="$PROJECT_DIR$/../jiaozivideoplayer/jiaozivideoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jiaozivideoplayer2/jiaozivideoplayer2.iml" filepath="$PROJECT_DIR$/../jiaozivideoplayer2/jiaozivideoplayer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lsn17_keepliveProcess/lsn17_keepliveProcess.iml" filepath="$PROJECT_DIR$/../lsn17_keepliveProcess/lsn17_keepliveProcess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nativeImgCompress1/nativeImgCompress1.iml" filepath="$PROJECT_DIR$/../nativeImgCompress1/nativeImgCompress1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../payDemoActivity_20/payDemoActivity_20.iml" filepath="$PROJECT_DIR$/../payDemoActivity_20/payDemoActivity_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wheelsruflibrary/wheelsruflibrary.iml" filepath="$PROJECT_DIR$/../wheelsruflibrary/wheelsruflibrary.iml" />
+    </modules>
+  </component>
+</project>

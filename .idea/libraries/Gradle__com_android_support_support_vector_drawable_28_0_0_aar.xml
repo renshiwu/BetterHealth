@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-vector-drawable:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/android-build-cache/ee5e92504b590b7f1e39dbc9e0cbed6a3f1b9655/output/jars/classes.jar!/" />
+      <root url="file://D:/android-build-cache/ee5e92504b590b7f1e39dbc9e0cbed6a3f1b9655/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
